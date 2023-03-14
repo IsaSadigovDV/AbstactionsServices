@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskEmployee", "CsharpImortant\TaskEmployee.csproj", "{5AC5A29F-6B07-444B-8DD4-DD93D0ADFC36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskEmployee", "CsharpImortant\TaskEmployee.csproj", "{5AC5A29F-6B07-444B-8DD4-DD93D0ADFC36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDepartment", "EmployeeDepartment\EmployeeDepartment.csproj", "{65B9630F-6014-4B10-999D-5D50A1CCEE02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AptekProject", "AptekProject\AptekProject.csproj", "{C941F8A9-2E88-4117-8273-F7100494F133}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0042FEF2-BC6A-4229-87A2-9D1B21745A17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceMiniAppPractice", "InterfaceMiniAppPractice\InterfaceMiniAppPractice.csproj", "{7D72B686-9572-45F7-8297-BBF025BC313E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTask", "MiniTask\MiniTask.csproj", "{35590290-B816-47B1-9B7E-D18FE75580E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTask.Core", "MiniTask.Core\MiniTask.Core.csproj", "{188EF113-847D-45C5-9540-E399BA48543F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{5AC5A29F-6B07-444B-8DD4-DD93D0ADFC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AC5A29F-6B07-444B-8DD4-DD93D0ADFC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AC5A29F-6B07-444B-8DD4-DD93D0ADFC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B9630F-6014-4B10-999D-5D50A1CCEE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B9630F-6014-4B10-999D-5D50A1CCEE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B9630F-6014-4B10-999D-5D50A1CCEE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B9630F-6014-4B10-999D-5D50A1CCEE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C941F8A9-2E88-4117-8273-F7100494F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C941F8A9-2E88-4117-8273-F7100494F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C941F8A9-2E88-4117-8273-F7100494F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C941F8A9-2E88-4117-8273-F7100494F133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0042FEF2-BC6A-4229-87A2-9D1B21745A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0042FEF2-BC6A-4229-87A2-9D1B21745A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0042FEF2-BC6A-4229-87A2-9D1B21745A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0042FEF2-BC6A-4229-87A2-9D1B21745A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D72B686-9572-45F7-8297-BBF025BC313E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D72B686-9572-45F7-8297-BBF025BC313E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D72B686-9572-45F7-8297-BBF025BC313E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D72B686-9572-45F7-8297-BBF025BC313E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35590290-B816-47B1-9B7E-D18FE75580E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35590290-B816-47B1-9B7E-D18FE75580E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35590290-B816-47B1-9B7E-D18FE75580E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35590290-B816-47B1-9B7E-D18FE75580E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188EF113-847D-45C5-9540-E399BA48543F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188EF113-847D-45C5-9540-E399BA48543F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188EF113-847D-45C5-9540-E399BA48543F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188EF113-847D-45C5-9540-E399BA48543F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
