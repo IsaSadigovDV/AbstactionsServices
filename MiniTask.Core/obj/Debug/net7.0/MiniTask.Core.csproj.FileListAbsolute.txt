@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\bin\Debug\net7.0\MiniTask.Core.deps.json
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\bin\Debug\net7.0\MiniTask.Core.dll
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\bin\Debug\net7.0\MiniTask.Core.pdb
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\MiniTask.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\MiniTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\MiniTask.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\MiniTask.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\MiniTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\MiniTask.Core.dll
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\refint\MiniTask.Core.dll
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\MiniTask.Core.pdb
+C:\Users\HP\source\repos\TaskEmployee\MiniTask.Core\obj\Debug\net7.0\ref\MiniTask.Core.dll

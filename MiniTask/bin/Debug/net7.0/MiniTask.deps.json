@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MiniTask/1.0.0": {
+        "dependencies": {
+          "MiniTask.Core": "1.0.0"
+        },
+        "runtime": {
+          "MiniTask.dll": {}
+        }
+      },
+      "MiniTask.Core/1.0.0": {
+        "runtime": {
+          "MiniTask.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniTask.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
